@@ -19,3 +19,17 @@
 .site-layout .site-layout-background {
   background: #fff;
 }
+.ml-2 {
+  margin-left: 4px !important;
+}
+.ml-3 {
+  margin-left: 6px !important;
+}
+
+.mr-2 {
+  margin-right: 4px !important;
+}
+.mr-3 {
+  margin-right: 6px !important;
+}
+
